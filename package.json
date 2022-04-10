@@ -1,9 +1,9 @@
 {
-  "name": "egg-aliyun",
+  "name": "egg-cloud-aliyun",
   "version": "1.0.0",
   "description": "suite for aliyun cloud infratu",
   "eggPlugin": {
-    "name": "aliyun"
+    "name": "cloudAliyun"
   },
   "keywords": [
     "egg",
